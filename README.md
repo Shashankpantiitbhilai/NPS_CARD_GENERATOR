@@ -1,6 +1,6 @@
 # NPS Portfolio Card Generator
 
-This Go application generates visual portfolio summary cards for National Pension System (NPS) users. It takes user portfolio data in JSON format and produces a PNG image with a donut chart representing asset allocation, XIRR information, and other portfolio details.
+This Go application generates visual portfolio summary cards for  NPS users. It takes user portfolio data in JSON format and produces a PNG image with a donut chart representing asset allocation, XIRR information, and other portfolio details.
 
 ## Features
 
@@ -10,6 +10,9 @@ This Go application generates visual portfolio summary cards for National Pensio
 - Customizable image dimensions and font options
 - Option to save intermediate SVG for debugging
 
+### Sample Output
+
+![NPS Portfolio Card](nps_card.png)
 ## Project Structure
 
 ```
@@ -53,7 +56,7 @@ nps-card-generator/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/nps-card-generator.git
+git clone https://github.com/shashankpantiitbhilai/nps-card-generator.git
 cd nps-card-generator
 ```
 
@@ -161,4 +164,6 @@ When run successfully, the application will generate a PNG image with:
 - Subtitles indicating "All Schemes"
 - XIRR percentage and period
 - A legend showing scheme names and allocation percentages
+### Output
 
+![NPS Portfolio Card](nps_card.png)
