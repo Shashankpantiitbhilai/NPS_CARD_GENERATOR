@@ -57,6 +57,7 @@ https://github.com/Shashankpantiitbhilai/NPS_CARD_GENERATOR
 
 ```bash
 git clone https://github.com/Shashankpantiitbhilai/NPS_CARD_GENERATOR
+cd NPS_CARD_GENERATOR/
 
 ```
 
