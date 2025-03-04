@@ -15,11 +15,8 @@ type Scheme struct {
 	Color      string `json:"color"`      // hex code or named color
 }
 
-// Validate ensures all portfolio data is valid
+
 func (p *UserPortfolio) Validate() error {
-	// Could add validation logic here, such as:
-	// - Ensuring allocations sum to 100%
-	// - Validating color formats
-	// - Checking for empty scheme names
+	
 	return nil
 }

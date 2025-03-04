@@ -113,26 +113,26 @@ The application expects a JSON file with the following structure:
 
 ```json
 {
-  "username": "JohnDoe",
-  "xirr": 12.5,
-  "xirrPeriod": 3,
-  "schemes": [
-    {
-      "name": "Equity",
-      "allocation": 60,
-      "color": "#4285F4"
-    },
-    {
-      "name": "Debt",
-      "allocation": 30,
-      "color": "#34A853"
-    },
-    {
-      "name": "Gold",
-      "allocation": 10,
-      "color": "#FBBC05"
-    }
-  ]
+    "username": "Sakshi",
+    "xirr": 14.7,
+    "xirrPeriod": 4,
+    "schemes": [
+        {
+            "name": "SBI A-I",
+            "allocation": 45,
+            "color": "#4169E1"
+        },
+        {
+            "name": "HDFC C-I",
+            "allocation": 35,
+            "color": "#191970"
+        },
+        {
+            "name": "ICICI G-I",
+            "allocation": 20,
+            "color": "#B0C4DE"
+        }
+    ]
 }
 ```
 
@@ -162,10 +162,3 @@ When run successfully, the application will generate a PNG image with:
 - XIRR percentage and period
 - A legend showing scheme names and allocation percentages
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
