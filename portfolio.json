@@ -1,0 +1,22 @@
+{
+    "username": "Sakshi",
+    "xirr": 14.7,
+    "xirrPeriod": 4,
+    "schemes": [
+        {
+            "name": "SBI A-I",
+            "allocation": 45,
+            "color": "#4169E1"
+        },
+        {
+            "name": "HDFC C-I",
+            "allocation": 35,
+            "color": "#191970"
+        },
+        {
+            "name": "ICICI G-I",
+            "allocation": 20,
+            "color": "#B0C4DE"
+        }
+    ]
+}
