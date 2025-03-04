@@ -39,7 +39,7 @@ nps-card-generator/
 ├── go.mod
 ├── go.sum
 └── README.md
-└── portfolio.json
+└── portfolio.json # Dummy Data
 
 ```
 
@@ -52,12 +52,12 @@ nps-card-generator/
   - github.com/srwiley/rasterx
 
 ## Installation
-
+https://github.com/Shashankpantiitbhilai/NPS_CARD_GENERATOR
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/shashankpantiitbhilai/nps-card-generator.git
-cd nps-card-generator
+git clone https://github.com/Shashankpantiitbhilai/NPS_CARD_GENERATOR
+
 ```
 
 2. Download required dependencies:
